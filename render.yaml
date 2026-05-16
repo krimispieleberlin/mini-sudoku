@@ -9,8 +9,4 @@
       - key: MINI_SUDOKU_SECRET
         sync: false
       - key: PUBLIC_ORIGIN
-<<<<<<< HEAD
         sync: false
-=======
-        sync: false
->>>>>>> 999898fb12414e39433ead118c53f63076387f0c

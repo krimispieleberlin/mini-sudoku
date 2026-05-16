@@ -251,8 +251,5 @@ const server = http.createServer(async (req, res) => {
 server.listen(PORT, () => {
   const warning = SECRET === "dev-only-change-this-mini-sudoku-secret" ? " with the development secret" : "";
   console.log(`Mini Sudoku backend running at http://localhost:${PORT}${warning}`);
-<<<<<<< HEAD
 });
-=======
-});
->>>>>>> 999898fb12414e39433ead118c53f63076387f0c
+
