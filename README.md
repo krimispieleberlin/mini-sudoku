@@ -1,4 +1,4 @@
-﻿# Mini Sudoku Backend
+# Mini Sudoku Backend
 
 Backend API for the hourly 4x4 Mini Sudoku game.
 

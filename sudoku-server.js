@@ -1,4 +1,4 @@
-﻿const crypto = require("crypto");
+const crypto = require("crypto");
 const http = require("http");
 
 const PORT = Number(process.env.PORT || 4174);
